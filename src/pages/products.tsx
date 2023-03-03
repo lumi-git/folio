@@ -18,7 +18,7 @@ export default function main() {
             
             <div className = "mt-20 bg-opacity-60  bg-gradient-to-r from-orange-200 to-orange-300 grid justify-center ">
 
-                <a className = "text-5xl p-20 hover:translate-x-52    transition-transform duration-500  " >
+                <a className = "text-5xl p-20 hover:translate-x-52 transition-transform duration-500  " >
                     <p>Introducing Product 1</p>
 
 

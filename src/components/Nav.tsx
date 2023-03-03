@@ -8,7 +8,6 @@ export default function Nav() {
                 Home
             </Link>
 
-
             <Link className = "text-2xl hover:underline mx-10 hover:text-3xl  duration-500" href="/products">
                 Products
             </Link>
